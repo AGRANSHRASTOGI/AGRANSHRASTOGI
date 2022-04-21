@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AGRANSH RASTOGI</h1>
+<h1 align="center"> Hello 👋, I'm AGRANSH RASTOGI ✌</h1>
 <h3 align="center">A passionate ML RESEARCHER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agranshrastogi&label=Profile%20views&color=0e75b6&style=flat" alt="agranshrastogi" /> </p>
@@ -13,7 +13,7 @@
 
 - 📝 I read and post researches on [https://www.researchgate.net/profile/Agransh-Rastogi](https://www.researchgate.net/profile/Agransh-Rastogi)
 
-- 💬 About Me **I am Friendly and Like to talk people with creative and unique mindset**
+- 💬 About Me **: I am Friendly and Like to talk people with creative and unique mindset**
 
 - 📫 How to reach me **agranshrastogi133@gmail.com**
 
