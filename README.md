@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NLP , COMPUTER VISION**
 
-- 🌱 I’m currently learning **ML , DSA **
+- 🌱 I’m currently learning **ML ,DL, DSA **
 
 - 👨‍💻 LinkedIn Profile [https://www.linkedin.com/in/agransh-rastogi-9a316b1ba/](https://www.linkedin.com/in/agransh-rastogi-9a316b1ba/)
 
