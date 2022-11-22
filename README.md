@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/agransh-rastogi-9a316b1ba/](https://www.linkedin.com/in/agransh-rastogi-9a316b1ba/)
 
-- ⚡ Fun fact **I find logic , science & philosophy in Everything**
+- ⚡ Fun fact **I try to find logic , science & philosophy in Everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
