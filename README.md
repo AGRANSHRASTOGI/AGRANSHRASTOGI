@@ -58,7 +58,5 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-<iframe>
-<video src="https://www.youtube.com/watch?v=y_F0fj9ijBE"> "Beautifully answered why one should do engineering ?" [It makes you able to find solutions to many problems]</video></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y_F0fj9ijBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agranshrastogi&show_icons=true&locale=en&layout=compact" alt="agranshrastogi" /></p>
